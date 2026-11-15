@@ -4,7 +4,17 @@ A practical, step-by-step guide to diagnosing and fixing the most common LAN, WL
 
 **Author:** Samiru Ninduwara, Network Student, Sri Lanka
 
-**Download:** [Network-Troubleshooting-Handbook.pdf]([Network-Troubleshooting-Handbook.pdf](https://github.com/SamiruNinduwara/Network-Troubleshooting-Handbook/releases/download/network-troubleshooting/Network-Troubleshooting-Handbook.pdf)) (20 pages)
+<p align="center">
+  <a href="https://github.com/SamiruNinduwara/Network-Troubleshooting-Handbook/releases/download/network-troubleshooting/Network-Troubleshooting-Handbook.pdf">
+    <img src="https://img.shields.io/badge/Download%20PDF-Network%20Troubleshooting%20Handbook-1B998B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download the PDF" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pages-20-12355B?style=flat-square&logo=readthedocs&logoColor=white" alt="20 pages" />
+  <img src="https://img.shields.io/badge/Topics-12%20Common%20Faults-12355B?style=flat-square&logo=cisco&logoColor=white" alt="12 common faults" />
+  <img src="https://img.shields.io/badge/Format-PDF-12355B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" />
+</p>
 
 ---
 
