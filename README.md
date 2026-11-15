@@ -4,7 +4,7 @@ A practical, step-by-step guide to diagnosing and fixing the most common LAN, WL
 
 **Author:** Samiru Ninduwara, Network Student, Sri Lanka
 
-**Download:** [Network-Troubleshooting-Handbook.pdf](Network-Troubleshooting-Handbook.pdf) (20 pages)
+**Download:** [Network-Troubleshooting-Handbook.pdf]([Network-Troubleshooting-Handbook.pdf](https://github.com/SamiruNinduwara/Network-Troubleshooting-Handbook/releases/download/network-troubleshooting/Network-Troubleshooting-Handbook.pdf)) (20 pages)
 
 ---
 
