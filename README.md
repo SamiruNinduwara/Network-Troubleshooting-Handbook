@@ -81,4 +81,4 @@ Found a mistake or have a suggestion? Please open an **Issue** on this repositor
 ## Author
 
 **Samiru Ninduwara**
-Network Student | Sri Lanka 🇱🇰
+Network Student | Sri Lanka
