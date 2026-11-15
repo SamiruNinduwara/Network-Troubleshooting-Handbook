@@ -12,7 +12,7 @@ A practical, step-by-step guide to diagnosing and fixing the most common LAN, WL
 
 ---
 
-## Why I made this
+## Why I made this 🤔
 
 Knowing the theory is not enough. A technician must be able to find a fault quickly and calmly. I wrote this handbook to practise a repeatable method and to build a reference I can use in the lab and on the job.
 
@@ -81,4 +81,4 @@ Found a mistake or have a suggestion? Please open an **Issue** on this repositor
 ## Author
 
 **Samiru Ninduwara**
-Network Student | Sri Lanka
+Network Student | Sri Lanka 🇱🇰
