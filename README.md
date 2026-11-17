@@ -4,15 +4,21 @@ A practical, step-by-step guide to diagnosing and fixing the most common LAN, WL
 
 **Author:** Samiru Ninduwara, Network Student, Sri Lanka
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/SamiruNinduwara/Network-Troubleshooting-Handbook/releases/download/network-troubleshooting/Network-Troubleshooting-Handbook.pdf">
     <img src="https://img.shields.io/badge/Download%20PDF-Network%20Troubleshooting%20Handbook-1B998B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download the PDF" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pages-25-12355B?style=flat-square&logo=readthedocs&logoColor=white" alt="25 pages" />
+  <img src="https://img.shields.io/badge/Topics-12%20Common%20Faults-12355B?style=flat-square&logo=cisco&logoColor=white" alt="12 common faults" />
+  <img src="https://img.shields.io/badge/Format-PDF-12355B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" />
+</p>
+
 ---
 
-## Why I made this 🤔
+## Why I made this
 
 Knowing the theory is not enough. A technician must be able to find a fault quickly and calmly. I wrote this handbook to practise a repeatable method and to build a reference I can use in the lab and on the job.
 
@@ -25,8 +31,9 @@ Knowing the theory is not enough. A technician must be able to find a fault quic
 | 3. Technician's toolkit | Windows and Cisco IOS commands, and the "golden ping sequence" |
 | 4. Troubleshooting guides | 12 common faults, each with Symptoms, Possible causes, Steps, Solution and Prevention |
 | 5. Extended command reference | More Windows, Linux, Cisco IOS and MikroTik commands |
-| 6. Quick reference tables | Private IP ranges, common ports, LED meanings, T568A / T568B colour order, cable types |
-| 7. Fault log template | A table for documenting every fault you fix |
+| 6. Ports and protocols reference | 60+ ports and protocols by category (web, DNS/DHCP, remote access, email, file sharing, directory, VPN, routing, Layer 2), plus how to test a port and read the result |
+| 7. Quick reference tables | Private IP ranges, LED meanings, T568A / T568B colour order, cable types |
+| 8. Fault log template | A table for documenting every fault you fix |
 
 ## Faults covered
 
