@@ -6,7 +6,8 @@ A practical, step-by-step guide to diagnosing and fixing the most common LAN, WL
 
 <p align="center">
   <a href="https://github.com/SamiruNinduwara/Network-Troubleshooting-Handbook/releases/download/network-troubleshooting/Network-Troubleshooting-Handbook.pdf">
-    <img src="https://img.shields.io/badge/Download%20PDF-Network%20Troubleshooting%20Handbook-1B998B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download the PDF" />
+    <img src="https://img.shields.io/badge/Download%20PDF-Network%20Troubleshooting%20Handbook-1B998B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download the PDF"
+      <img src="https://img.shields.io/badge/Download%20PDF-...&logoColor=white" alt="Download the PDF" width="480" />/>
   </a>
 </p>
 
