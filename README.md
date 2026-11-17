@@ -10,12 +10,6 @@ A practical, step-by-step guide to diagnosing and fixing the most common LAN, WL
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pages-25-12355B?style=flat-square&logo=readthedocs&logoColor=white" alt="25 pages" />
-  <img src="https://img.shields.io/badge/Topics-12%20Common%20Faults-12355B?style=flat-square&logo=cisco&logoColor=white" alt="12 common faults" />
-  <img src="https://img.shields.io/badge/Format-PDF-12355B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" />
-</p>
-
 ---
 
 ## Why I made this
